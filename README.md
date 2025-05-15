@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 24px;">Hello! I'm Jane Zhang 👩‍💻</strong><br>
+  <strong style="font-size: 28px;">Hello! I'm Jane Zhang 👩‍💻</strong><br>
   <em>An active learner of full-stack development 🚀</em>
 </p>
 
