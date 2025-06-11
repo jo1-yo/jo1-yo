@@ -4,7 +4,7 @@
 
 <p align="center">
   <span style="font-size: 32px;"><strong>Hello! I'm Jane Zhang 👩‍💻</strong></span><br>
-  <span style="font-size: 22px;"><em>An active learner of full-stack development 🚀</em></span>
+  <span style="font-size: 22px;"><em>An active learner of full-stack development 🚀 Feel free to reach out！</em></span>
 </p>
 
 
