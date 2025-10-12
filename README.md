@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 </p>
 
-<h1 align="center">Hi there, I'm Jane Zhang 👩‍💻</h1>
+<h1 align="center">Hey, I'm Jane Zhang 👩‍💻</h1>
 ---
 
 ### 🌿 GitHub Stats
@@ -31,4 +31,8 @@
 - 📫 Reach me: [@janezhang2033@163.com](mailto:janezhang2033@163.com)
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jo1-yo/jo1-yo/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 
