@@ -6,7 +6,7 @@
 
 
 ### 🌿 GitHub Stats
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://raw.githubusercontent.com/jo1-yo/profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" width="600"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jo1-yo&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
