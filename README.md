@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 </p>
 
-<h1 align="center">Hi there, I'm Jane Zhang 👑</h1>
+<h1 align="center">Hi there, I'm Jane Zhang 👩‍💻</h1>
 ---
 
 ### 🌿 GitHub Stats
@@ -24,10 +24,11 @@
 ---
 
 ### ✨ More about me
-- 🧠 Exploring Cognitive Science & AI integration  
-- 💻 Building tools that make learning and creation seamless  
-- 🌐 Portfolio: [imjane.top](https://imjane.top)  
-- 📫 Reach me: [@janezhang2033](mailto:janezhang2033@163.com)
+ 🧠 Exploring Cognitive Science & AI integration  
+ 🤖 Building AI agents that help people think, learn, and create more intuitively
+ 🔗 Currently researching Web3
+ 🌐 Portfolio: [imjane.top](https://imjane.top)  
+ 📫 Reach me: [@janezhang2033](mailto:janezhang2033@163.com)
 
 ---
 
