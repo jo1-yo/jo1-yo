@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey, I'm Jane Zhang 👩‍💻</h1>
----
+
 
 ### 🌿 GitHub Stats
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -28,11 +28,5 @@
 - 🤖 Building AI agents that help people think, learn, and create more intuitively
 - 🔗 Currently researching Web3
 - 🌐 Portfolio: [imjane.top](https://imjane.top)  
-- 📫 Reach me: [@janezhang2033@163.com](mailto:janezhang2033@163.com)
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jo1-yo/jo1-yo/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
+- 📫 Reach me: [@janezhang2033@163.com](mailto:janezhang2033@163.com）
 
