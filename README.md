@@ -1,6 +1,8 @@
-# 👋 Hello! I'm Jane Zhang  
-🚀 An active learner of full-stack development & Entrepreneur 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
 
+<h1 align="center">Hi there, I'm Jane Zhang 👑</h1>
 ---
 
 ### 🌿 GitHub Stats
