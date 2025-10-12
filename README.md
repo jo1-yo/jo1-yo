@@ -8,19 +8,7 @@
 <br>
 
 ### GitHub Stats
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/jo1-yo/profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" 
-    alt="3D Contribution Graph"
-    width="95%" 
-    style="max-width: 1000px;"
-  />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jo1-yo&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jo1-yo&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
