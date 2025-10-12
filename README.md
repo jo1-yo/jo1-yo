@@ -2,9 +2,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 </p>
 
-<h1 align="center">Hey, I'm Jane Zhang 👩‍💻</h1>
+<h1 align="center">Hey, I'm Jane Zhang 👩🏻‍💻</h1>
 
----
+<!-- 🔹 删除所有多余的 --- 分隔线 -->
+<br>
 
 ### GitHub Stats
 <p align="center">
