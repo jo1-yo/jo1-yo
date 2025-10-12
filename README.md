@@ -8,7 +8,7 @@
 <br>
 
 ### GitHub Stats
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution Graph](https://raw.githubusercontent.com/jo1-yo/jo1-yo/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
