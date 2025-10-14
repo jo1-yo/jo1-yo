@@ -32,9 +32,9 @@
 
 ---
 
-### 🌸 More About Me
-🧠 Exploring Cognitive Science & AI integration<br>
-🤖 Building AI agents that help people think, learn, and create more intuitively<br>
-🔗 Currently researching Web3<br>
-🌐 Portfolio: [imjane.top](https://imjane.top)<br>
-📫 Reach me: [janezhang2033@163.com](mailto:janezhang2033@163.com)
+### More About Me
+ Exploring Cognitive Science & AI integration<br>
+ Building AI agents that help people think, learn, and create more intuitively<br>
+ Currently researching Web3<br>
+ Portfolio: [imjane.top](https://imjane.top)<br>
+ Reach me: [janezhang2033@163.com](mailto:janezhang2033@163.com)
