@@ -1,12 +1,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+  <h1 align="center">Hey, I'm Jane Zhang 👩🏻‍💻</h1>
+<p align="center" style="font-size: 18px; margin-top: -10px;">
+  An entrepreneur & active learner of full stack development.
 </p>
-
-<h1 align="center">Hey, I'm Jane Zhang 👩🏻‍💻</h1>
-<align="center">An entrepreneur & active learner of full stack development.</>
-
-<!-- 🔹 删除所有多余的 --- 分隔线 -->
-<br>
 
 ### GitHub Stats
 <p align="center">
