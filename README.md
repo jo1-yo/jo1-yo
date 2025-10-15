@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hey, I'm Jane Zhang 👩🏻‍💻</h1>
+<h2 align="center">An entrepreneur & active learner of full stack development.</h2>
 
 <!-- 🔹 删除所有多余的 --- 分隔线 -->
 <br>
