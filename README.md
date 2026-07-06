@@ -31,9 +31,9 @@
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,ts,js,react,nextjs,vue,tailwind,python,cpp,nodejs,swift,docker,git,linux,vscode,figma,vercel,mongodb,supabase,vite,bash,c,svelte,express,github&perline=9&theme=dark"
-    alt="Tech stack icons: HTML, CSS, TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, Python, C++, Node.js, Swift, Docker, Git, Linux, VS Code, Figma, Vercel, MongoDB, Supabase, Vite, Bash, C, Svelte, Express, GitHub"
-    width="95%"
+    src="https://skillicons.dev/icons?i=html,css,ts,js,react,nextjs,vue,tailwind,python,nodejs,express,mongodb,vercel,docker,git,github&perline=8&theme=dark"
+    alt="Tech stack icons: HTML, CSS, TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, Python, Node.js, Express, MongoDB, Vercel, Docker, Git, GitHub"
+    width="72%"
   />
 </p>
 
