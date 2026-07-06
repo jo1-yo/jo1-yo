@@ -12,13 +12,13 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/jo1-yo/profile-3d-contrib/main/profile-3d-contrib/profile-rainbow-light.svg#gh-light-mode-only"
+    src="https://raw.githubusercontent.com/jo1-yo/profile-3d-contrib/main/profile-3d-contrib/profile-rainbow-light.svg?v=0d81fd7#gh-light-mode-only"
     alt="3D Contribution Graph"
     width="95%"
     style="max-width: 1000px;"
   />
   <img
-    src="https://raw.githubusercontent.com/jo1-yo/profile-3d-contrib/main/profile-3d-contrib/profile-rainbow-dark.svg#gh-dark-mode-only"
+    src="https://raw.githubusercontent.com/jo1-yo/profile-3d-contrib/main/profile-3d-contrib/profile-rainbow-dark.svg?v=0d81fd7#gh-dark-mode-only"
     alt="3D Contribution Graph"
     width="95%"
     style="max-width: 1000px;"
