@@ -42,8 +42,7 @@
 
 ### More About Me
 
-🧠 Exploring cognitive science, AI, and human-centered interfaces<br>
+🧠 Exploring cognitive science & AI<br>
 🤖 Building AI agents that help people think, learn, and create more intuitively<br>
-🔗 Researching Web3 and networked communities<br>
-🎮 Portfolio: [imjane.top](https://imjane.top)<br>
-📮 Reach me: [13810998512@163.com](mailto:13810998512@163.com)
+🎮 Portfolio: [imjane.top](https://imjane.top/)<br>
+📮 Reach me: [janezhang555l@gmail.com](mailto:janezhang555l@gmail.com)
