@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Jane Zhang 👩🏻‍💻</h1>
 
 <p align="center">
-  Entrepreneur | Full-stack builder | AI & cognitive science explorer | Storyteller of technology
+  Entrepreneur | Full-stack builder | Storyteller of technology
 </p>
 
 ### GitHub Stats
