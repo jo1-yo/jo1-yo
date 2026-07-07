@@ -36,12 +36,3 @@
     width="100%"
   />
 </p>
-
----
-
-### More About Me
-
-🧠 Exploring cognitive science & AI<br>
-🤖 Building AI agents that help people think, learn, and create more intuitively<br>
-🎮 Portfolio: [imjane.top](https://imjane.top/)<br>
-📮 Reach me: [janezhang555l@gmail.com](mailto:janezhang555l@gmail.com)
