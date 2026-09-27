@@ -8,6 +8,10 @@
   Entrepreneur | Full-stack builder | Storyteller of technology
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jo1-yo&label=profile%20views&color=a78bfa&style=flat-square&abbreviated=true" alt="Profile views" height="20"/>
+</p>
+
 ### GitHub Stats
 
 <p align="center">
