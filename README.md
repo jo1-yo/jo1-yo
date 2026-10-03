@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jo1-yo&label=profile%20views&color=a78bfa&style=flat-square&abbreviated=true" alt="Profile views" height="20"/>
+  <img src="https://hits.sh/github.com/jo1-yo.svg?label=profile%20views&color=a78bfa&style=flat-square" alt="Profile views" height="20"/>
 </p>
 
 ### GitHub Stats
