@@ -8,10 +8,6 @@
   Entrepreneur | Full-stack builder | Storyteller of technology
 </p>
 
-<p align="center">
-  <img src="https://hits.sh/github.com/jo1-yo.svg?label=profile%20views&color=a78bfa&style=flat-square" alt="Profile views" height="20"/>
-</p>
-
 ### GitHub Stats
 
 <p align="center">
